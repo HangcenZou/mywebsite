@@ -23,5 +23,6 @@ website:
 
 format: 
   html: 
+    theme: minty
     mainfont: serif
 
