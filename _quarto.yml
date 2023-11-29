@@ -23,6 +23,5 @@ website:
 
 format: 
   html: 
-    theme: cosmo
     mainfont: serif
 
