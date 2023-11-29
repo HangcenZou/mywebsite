@@ -1,0 +1,39 @@
+---
+format: html
+editor: visual
+---
+
+# Teaching
+
+\
+
+#### Washington University in St. Louis
+\
+
+###### Fall 2023
+
+-   Math 3200: Elementary to Intermediate Statistics and Data Analysis Fall 2019 - Assistant to Instructor
+
+###### Fall 2019
+
+-   Calculus II Peer-Led Team Learning Program - Leader
+
+###### Spring 2019
+
+-   Calculus II Peer-Led Team Learning Program - Leader
+-   CSE 247: Data Structures and Algorithms - Teaching Assistant
+-   Partners in East St. Louis - Language Ambassador
+
+###### Fall 2018
+
+-   Calculus II Peer-Led Team Learning Program - Leader
+-   Partners in East St. Louis - Language Ambassador
+
+\
+
+#### Johns Hopkins Center for Talented Youth
+\
+
+###### Summer 2019
+
+-   The Mathematics of Money - Teaching Assistant

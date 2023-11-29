@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hangcen Zou",
+    "section": "",
+    "text": "Hangcen Zou\n\nI am a Ph.D. student in the Department of Statistics and Data Science at Washington University in St. Louis. Prior to my doctoral studies, I obtained my A.B. degree with a major in Mathematics, a second major in Finance, and a minor in Computer Science at Washington University in St. Louis in 2021. My undergraduate thesis was advised by Professor José E. Figueroa-López.\nMy research interests include spatial statistics, high-dimensional data, time series, change points, as well as their applications in neuroimaging and brain dynamics.\n\ncontact: h dot zou at wustl dot edu"
+  },
+  {
+    "objectID": "index.html#running-code",
+    "href": "index.html#running-code",
+    "title": "ABOUT",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "website.html",
+    "href": "website.html",
+    "title": "website",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "project",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "project.html#running-code",
+    "href": "project.html#running-code",
+    "title": "project",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "index.html#hangcen-zou",
+    "href": "index.html#hangcen-zou",
+    "title": "Hangcen Zou",
+    "section": "Hangcen Zou",
+    "text": "Hangcen Zou\nI am a Ph.D. student in the Department of Statistics and Data Science at Washington University in St. Louis."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Hangcen Zou",
+    "section": "",
+    "text": "Teaching\n\n\n\nWashington University in St. Louis\n\n\n\nFall 2023\n\nMath 3200: Elementary to Intermediate Statistics and Data Analysis Fall 2019 - Assistant to Instructor\n\n\n\nFall 2019\n\nCalculus II Peer-Led Team Learning Program - Leader\n\n\n\nSpring 2019\n\nCalculus II Peer-Led Team Learning Program - Leader\nCSE 247: Data Structures and Algorithms - Teaching Assistant\nPartners in East St. Louis - Language Ambassador\n\n\n\nFall 2018\n\nCalculus II Peer-Led Team Learning Program - Leader\nPartners in East St. Louis - Language Ambassador\n\n\n\n\n\n\nJohns Hopkins Center for Talented Youth\n\n\n\nSummer 2019\n\nThe Mathematics of Money - Teaching Assistant"
+  },
+  {
+    "objectID": "teaching.html#running-code",
+    "href": "teaching.html#running-code",
+    "title": "teaching",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Hangcen Zou",
+    "section": "",
+    "text": "Research\n\n\n\nLaplace Approximation on Irregular Lattices Using Combinatorial Optimization Algorithm  Advisor: Debashis Mondal\nAdaptive MOSUM: Inference for Multiscale Change Points in High-Dimensional Time Series  Advisor: Likai Chen\nCollaborators: Jiaqi Li, Michel F. C. Haddad\nNetwork-Level Automated Sleep Stage Change Detection for fMRI Baby Connectome Analysis  Advisor: Muriah D. Wheelock\nCollaborators: Jiaqi Li, Yumiao Lei\nVolatility Estimation on High Frequency Data with Wavelet Shrinkage and Threshold Variation  Advisor: José E. Figueroa-López"
+  },
+  {
+    "objectID": "research.html#running-code",
+    "href": "research.html#running-code",
+    "title": "project",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "awards.html",
+    "href": "awards.html",
+    "title": "Hangcen Zou",
+    "section": "",
+    "text": "Awards\n\n\n\nFreiwald Scholarship\nScholarship for undergraduates to carry out research in areas with substantial mathematical content\nHonors Program in Statistics\nUndergraduate honors program consisting of a challenging four-year curriculum and an honors thesis\nMagna Cum Laude\nUndergraduate collegewide Latin Honors\nHighest Distinction in Mathematics\nUndergraduate department award\nMartin Silverstein Award in Mathematics\nUndergraduate award for students with strengths in probability and statistics\nMathematics Mentor Award\nUndergraduate award for students with exceptional contribution as mentors\nBrian Blank Award in Mathematics\nUndergraduate award for distinguished juniors majoring mathematics and statistics\nDean’s List\nUndergraduate collegewide award (Spring 2018, Fall 2018, Spring 2019, Fall 2019, Fall 2020, Spring 2021)"
+  },
+  {
+    "objectID": "awards.html#running-code",
+    "href": "awards.html#running-code",
+    "title": "Awards",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "photography.html",
+    "href": "photography.html",
+    "title": "Hangcen Zou",
+    "section": "",
+    "text": "Photography"
+  },
+  {
+    "objectID": "photography.html#running-code",
+    "href": "photography.html#running-code",
+    "title": "photography",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  }
+]

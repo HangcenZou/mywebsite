@@ -1,0 +1,32 @@
+---
+format: html
+editor: visual
+---
+
+# Awards
+
+\
+
+-   **Freiwald Scholarship**\
+    Scholarship for undergraduates to carry out research in areas with substantial mathematical content
+
+-   **Honors Program in Statistics**\
+    Undergraduate honors program consisting of a challenging four-year curriculum and an honors thesis
+
+-   **Magna Cum Laude**\
+    Undergraduate collegewide Latin Honors
+
+-   **Highest Distinction in Mathematics**\
+    Undergraduate department award
+
+-   **Martin Silverstein Award in Mathematics**\
+    Undergraduate award for students with strengths in probability and statistics
+
+-   **Mathematics Mentor Award**\
+    Undergraduate award for students with exceptional contribution as mentors
+
+-   **Brian Blank Award in Mathematics**\
+    Undergraduate award for distinguished juniors majoring mathematics and statistics
+
+-   **Dean's List**\
+    Undergraduate collegewide award (Spring 2018, Fall 2018, Spring 2019, Fall 2019, Fall 2020, Spring 2021)

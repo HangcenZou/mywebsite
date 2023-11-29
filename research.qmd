@@ -1,0 +1,22 @@
+---
+format: html
+editor: visual
+---
+
+# Research
+
+\
+
+-   **Laplace Approximation on Irregular Lattices Using Combinatorial Optimization Algorithm**\ 
+    Advisor: Debashis Mondal
+
+-   **Adaptive MOSUM: Inference for Multiscale Change Points in High-Dimensional Time Series**\ 
+    Advisor: Likai Chen\
+    Collaborators: Jiaqi Li, Michel F. C. Haddad
+
+-   **Network-Level Automated Sleep Stage Change Detection for fMRI Baby Connectome Analysis**\ 
+    Advisor: Muriah D. Wheelock\
+    Collaborators: Jiaqi Li, Yumiao Lei
+
+-   **Volatility Estimation on High Frequency Data with Wavelet Shrinkage and Threshold Variation**\ 
+    Advisor: José E. Figueroa-López
