@@ -18,8 +18,6 @@ website:
         text: Awards
       - href: photography.qmd
         text: Photography
-      
-        
 
 format: 
   html: 

@@ -4,10 +4,67 @@ editor: visual
 ---
 
 # Photography
+
 \
 
-::: {layout-nrow="2"}
-![Surus](pics/1.JPG){width="200"}
+## 2023
 
-![Lin Wang](pics/2.jpeg){width="200"}
+::: {layout-ncol="3" layout-valign="bottom"}
+[![Golden Gate Bridge, US](pics/DSCF6029.JPG){fig-align="left" width="220"}](pics/DSCF6029.JPG)
+
+[![San Francisco, US](pics/DSCF5601.JPG){fig-align="left" width="220"}](pics/DSCF5601.JPG)
+
+[![Qingdao, China](pics/DSCF4810.JPG){fig-align="left" width="220"}](pics/DSCF4810.JPG)
+:::
+
+::: {layout-ncol="2" layout-valign="bottom"}
+[![Qingdao, China](pics/DSCF4618.JPG){fig-align="left" width="440"}](pics/DSCF4618.JPG)
+
+[![Quebec City, Canada](pics/DSCF3591.JPG){fig-align="left" width="220"}](pics/DSCF3591.JPG)
+:::
+
+::: {layout-ncol="2" layout-valign="bottom"}
+[![Ottawa, Canada](pics/DSCF2933.JPG){fig-align="left" width="440"}](pics/DSCF2933.JPG)
+
+[![Ottawa, Canada](pics/DSCF2989.JPG){fig-align="left" width="220"}](pics/DSCF2989.JPG)
+:::
+
+::: {layout-ncol="2" layout-valign="bottom"}
+[![San Juan, Puerto Rico](pics/DSCF2359.JPG){fig-align="left" width="350"}](pics/DSCF2359.JPG)
+
+[![San Juan, Puerto Rico](pics/DSCF2385.JPG){fig-align="left" width="350"}](pics/DSCF2385.JPG)
+:::
+
+::: {layout-ncol="2" layout-valign="bottom"}
+[![San Juan, Puerto Rico](pics/DSCF2558.JPG){fig-align="left" width="440"}](pics/DSCF2558.JPG)
+
+[![San Juan, Puerto Rico](pics/DSCF2489.JPG){fig-align="left" width="220"}](pics/DSCF2489.JPG)
+:::
+
+\
+
+## 2022
+
+::: {layout-ncol="2" layout-valign="bottom"}
+[![Boston, US](pics/IMG_4367.JPG){fig-align="left" width="440"}](pics/IMG_4367.JPG)
+
+[![Boston, US](pics/IMG_4362.JPG){fig-align="left" width="220"}](pics/IMG_4362.JPG)
+:::
+
+<div>
+
+[![St. Louis, US](pics/IMG_2565.JPG){fig-align="left" width="440"}](pics/IMG_2565.JPG)
+
+</div>
+
+::: {layout-ncol="2" layout-valign="bottom"}
+:::
+
+::: {layout-ncol="2" layout-valign="bottom"}
+:::
+
+::: {layout-ncol="2" layout-valign="bottom"}
+:::
+
+::: {layout-ncol="2" layout-valign="bottom"}
 :::
