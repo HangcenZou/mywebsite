@@ -7,7 +7,10 @@ editor: visual
 
 \
 
--   **Laplace Approximation on Irregular Lattices Using Combinatorial Optimization Algorithm** \ 
+-   **test** \
+    Advisor: Debashis Mondal
+
+-   **Laplace Approximation on Irregular Lattices Using Combinatorial Optimization Algorithm** \
     Advisor: Debashis Mondal
 
 -   **Adaptive MOSUM: Inference for Multiscale Change Points in High-Dimensional Time Series** \ 
