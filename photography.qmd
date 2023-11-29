@@ -57,10 +57,45 @@ editor: visual
 
 </div>
 
+\
+
+## 2021
+
 ::: {layout-ncol="2" layout-valign="bottom"}
+[![Qomolangma, China](pics/IMG_4666.JPG){fig-align="left" width="350"}](pics/IMG_4666.JPG)
+
+[![Duoqing Lake, China](pics/IMG_4631.JPG){fig-align="left" width="350"}](pics/IMG_4631.JPG)
 :::
 
 ::: {layout-ncol="2" layout-valign="bottom"}
+[![Kangrinboqe, China](pics/IMG_4693.JPG){fig-align="left" width="350"}](pics/IMG_4693.JPG)
+
+[![Kangrinboqe, China](pics/IMG_4687.JPG){fig-align="left" width="350"}](pics/IMG_4687.JPG)
+:::
+
+::: {layout-ncol="2" layout-valign="bottom"}
+[![Lake Manasarovar, China](pics/IMG_4689.JPG){fig-align="left" width="350"}](pics/IMG_4689.JPG)
+
+[![Ranwu Lake, China](pics/IMG_4597.JPG){fig-align="left" width="350"}](pics/IMG_4597.JPG)
+:::
+
+::: {layout-ncol="2" layout-valign="bottom"}
+
+[![Yamdrok Lake, China](pics/IMG_4612.JPG){fig-align="left" width="350"}](pics/IMG_4612.JPG)
+
+[![Lake Puma Yumco, China](pics/IMG_4622.JPG){fig-align="left" width="350"}](pics/IMG_4622.JPG)
+:::
+
+::: {layout-ncol="2" layout-valign="bottom"}
+[![Qiangtang, China](pics/IMG_4724.JPG){fig-align="left" width="350"}](pics/IMG_4724.JPG)
+
+[![Tibet, China](pics/IMG_4668.JPG){fig-align="left" width="350"}](pics/IMG_4668.JPG)
+:::
+
+::: {layout-ncol="2" layout-valign="bottom"}
+[![Tibet, China](pics/IMG_4728.JPG){fig-align="left" width="350"}](pics/IMG_4728.JPG)
+
+[![Lake Nam, China](pics/IMG_4740.JPG){fig-align="left" width="350"}](pics/IMG_4740.JPG)
 :::
 
 ::: {layout-ncol="2" layout-valign="bottom"}
