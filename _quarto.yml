@@ -23,6 +23,6 @@ website:
 
 format: 
   html: 
-    theme: minty
+    theme: cosmo
     mainfont: serif
 
