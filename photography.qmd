@@ -7,7 +7,7 @@ editor: visual
 
 \
 
-## 2023
+## 2023 {#2023}
 
 ::: {layout-ncol="3" layout-valign="bottom"}
 [![Golden Gate Bridge, US](pics/DSCF6029.JPG){fig-align="left" width="220"}](pics/DSCF6029.JPG)
@@ -80,7 +80,6 @@ editor: visual
 :::
 
 ::: {layout-ncol="2" layout-valign="bottom"}
-
 [![Yamdrok Lake, China](pics/IMG_4612.JPG){fig-align="left" width="350"}](pics/IMG_4612.JPG)
 
 [![Lake Puma Yumco, China](pics/IMG_4622.JPG){fig-align="left" width="350"}](pics/IMG_4622.JPG)
@@ -98,8 +97,24 @@ editor: visual
 [![Lake Nam, China](pics/IMG_4740.JPG){fig-align="left" width="350"}](pics/IMG_4740.JPG)
 :::
 
+\
+
+## 2020
+
 ::: {layout-ncol="2" layout-valign="bottom"}
+[![Maastricht, Netherlands](pics/20/IMG_0603.jpg){fig-align="left" width="440"}](pics/20/IMG_0603.jpg)
+
+[![Szentendre, Hungary](pics/20/IMG_1909.JPG){fig-align="left" width="220"}](pics/20/IMG_1909.JPG)
 :::
 
 ::: {layout-ncol="2" layout-valign="bottom"}
+[![Szentendre, Hungary](pics/20/UNADJUSTEDNONRAW_thumb_65f1.JPG){fig-align="left" width="350"}](pics/20/UNADJUSTEDNONRAW_thumb_65f1.JPG)
+
+[![Budapest, Hungary](pics/20/UNADJUSTEDNONRAW_thumb_65de.JPG){fig-align="left" width="350"}](pics/20/UNADJUSTEDNONRAW_thumb_65de.JPG)
+:::
+
+::: {layout-ncol="2" layout-valign="bottom"}
+[![Budapest, Hungary](pics/20/UNADJUSTEDNONRAW_thumb_65ee.jpg){fig-align="left" width="350"}](pics/20/UNADJUSTEDNONRAW_thumb_65ee.jpg)
+
+[![Matthias Church, Hungary](pics/20/IMG_1914.JPG){fig-align="left" width="350"}](pics/20/IMG_1914.JPG)
 :::
