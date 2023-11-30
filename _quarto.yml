@@ -8,14 +8,14 @@ website:
     left: 
       - href: index.qmd
         text: Home
-      - href: cv.pdf
-        text: CV
       - href: research.qmd
         text: Research
       - href: teaching.qmd
         text: Teaching
       - href: awards.qmd
         text: Awards
+      - href: cv.qmd
+        text: CV
       - href: photography.qmd
         text: Photography
 

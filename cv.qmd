@@ -1,0 +1,11 @@
+---
+format: html
+editor: visual
+---
+
+# Curriculum Vitae
+\
+
+*last updated: November 2023
+
+[![](cv.pdf){width="800" height="930"}](cv.pdf)

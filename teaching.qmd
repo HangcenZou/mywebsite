@@ -8,6 +8,7 @@ editor: visual
 \
 
 #### Washington University in St. Louis
+
 \
 
 ###### Fall 2023
@@ -32,6 +33,7 @@ editor: visual
 \
 
 #### Johns Hopkins Center for Talented Youth
+
 \
 
 ###### Summer 2019
