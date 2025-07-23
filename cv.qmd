@@ -6,6 +6,6 @@ editor: visual
 # Curriculum Vitae
 \
 
-*last updated: November 2023
+*last updated: July 2025
 
-[![](cv.pdf){width="800" height="930"}](cv.pdf)
+[![](cv2025.pdf){width="800" height="930"}](cv2025.pdf)
