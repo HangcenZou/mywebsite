@@ -7,16 +7,56 @@ editor: visual
 
 \
 
+## 2025
+
+::: {layout-ncol="3" layout-valign="bottom"}
+[![Cary, United States](pics/DSCF1945.JPG){fig-align="left" width="220"}](pics/DSCF6029.JPG)
+
+[![Raleigh, United States](pics/DSCF1877.JPG){fig-align="left" width="220"}](pics/DSCF5601.JPG)
+:::
+
+\
+
 ## 2024
+
+::: {layout-ncol="3" layout-valign="bottom"}
+[![London Eye, United Kingdom](pics/DSCF0450.JPG){fig-align="left" width="220"}](pics/DSCF6029.JPG)
+
+[![River Thames, United Kingdom](pics/IMG_2446.JPG){fig-align="left" width="220"}](pics/DSCF5601.JPG)
+
+[![River Thames, United Kingdom](pics/IMG_2445.JPG){fig-align="left" width="220"}](pics/DSCF4810.JPG)
+:::
+
+::: {layout-ncol="3" layout-valign="bottom"}
+[![Regent Street, United Kingdom](pics/DSCF0167.JPG){fig-align="left" width="220"}](pics/DSCF6029.JPG)
+
+[![Harrods, United Kingdom](pics/DSCF0301.JPG){fig-align="left" width="220"}](pics/DSCF5601.JPG)
+
+[![River Thames, United Kingdom](pics/DSCF0424.JPG){fig-align="left" width="220"}](pics/DSCF4810.JPG)
+:::
+
+::: {layout-ncol="2" layout-valign="bottom"}
+[![Mexico City, Mexico](pics/DSCF9419.JPG){fig-align="left" width="350"}](pics/DSCF2359.JPG)
+
+[![Cannon Beach, United States](pics/DSCF8101.JPG){fig-align="left" width="350"}](pics/DSCF2385.JPG)
+:::
+
+::: {layout-ncol="3" layout-valign="bottom"}
+[![Ephesus, Turkey](pics/IMG_6685.JPG){fig-align="left" width="220"}](pics/DSCF6029.JPG)
+
+[![Sultan Ahmed Mosque, Turkey](pics/DSCF6355.JPG){fig-align="left" width="220"}](pics/DSCF5601.JPG)
+
+[![Cappadocia, Turkey](pics/IMG_6343.JPG){fig-align="left" width="220"}](pics/DSCF4810.JPG)
+:::
 
 \
 
 ## 2023 
 
 ::: {layout-ncol="3" layout-valign="bottom"}
-[![Golden Gate Bridge, US](pics/DSCF6029.JPG){fig-align="left" width="220"}](pics/DSCF6029.JPG)
+[![Golden Gate Bridge, United States](pics/DSCF6029.JPG){fig-align="left" width="220"}](pics/DSCF6029.JPG)
 
-[![San Francisco, US](pics/DSCF5601.JPG){fig-align="left" width="220"}](pics/DSCF5601.JPG)
+[![San Francisco, United States](pics/DSCF5601.JPG){fig-align="left" width="220"}](pics/DSCF5601.JPG)
 
 [![Qingdao, China](pics/DSCF4810.JPG){fig-align="left" width="220"}](pics/DSCF4810.JPG)
 :::
@@ -50,14 +90,14 @@ editor: visual
 ## 2022
 
 ::: {layout-ncol="2" layout-valign="bottom"}
-[![Boston, US](pics/IMG_4367.JPG){fig-align="left" width="440"}](pics/IMG_4367.JPG)
+[![Boston, United States](pics/IMG_4367.JPG){fig-align="left" width="440"}](pics/IMG_4367.JPG)
 
-[![Boston, US](pics/IMG_4362.JPG){fig-align="left" width="220"}](pics/IMG_4362.JPG)
+[![Boston, United States](pics/IMG_4362.JPG){fig-align="left" width="220"}](pics/IMG_4362.JPG)
 :::
 
 <div>
 
-[![St. Louis, US](pics/IMG_2565.JPG){fig-align="left" width="440"}](pics/IMG_2565.JPG)
+[![St. Louis, United States](pics/IMG_2565.JPG){fig-align="left" width="440"}](pics/IMG_2565.JPG)
 
 </div>
 
