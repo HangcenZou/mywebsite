@@ -7,7 +7,11 @@ editor: visual
 
 \
 
-## 2023 {#2023}
+## 2024
+
+\
+
+## 2023 
 
 ::: {layout-ncol="3" layout-valign="bottom"}
 [![Golden Gate Bridge, US](pics/DSCF6029.JPG){fig-align="left" width="220"}](pics/DSCF6029.JPG)
@@ -68,6 +72,13 @@ editor: visual
 :::
 
 ::: {layout-ncol="2" layout-valign="bottom"}
+
+[![Tibet, China](pics/IMG_4668.JPG){fig-align="left" width="350"}](pics/IMG_4668.JPG)
+
+[![Lake Nam, China](pics/IMG_4740.JPG){fig-align="left" width="350"}](pics/IMG_4740.JPG)
+:::
+
+::: {layout-ncol="2" layout-valign="bottom"}
 [![Kangrinboqe, China](pics/IMG_4693.JPG){fig-align="left" width="350"}](pics/IMG_4693.JPG)
 
 [![Kangrinboqe, China](pics/IMG_4687.JPG){fig-align="left" width="350"}](pics/IMG_4687.JPG)
@@ -83,18 +94,6 @@ editor: visual
 [![Yamdrok Lake, China](pics/IMG_4612.JPG){fig-align="left" width="350"}](pics/IMG_4612.JPG)
 
 [![Lake Puma Yumco, China](pics/IMG_4622.JPG){fig-align="left" width="350"}](pics/IMG_4622.JPG)
-:::
-
-::: {layout-ncol="2" layout-valign="bottom"}
-[![Qiangtang, China](pics/IMG_4724.JPG){fig-align="left" width="350"}](pics/IMG_4724.JPG)
-
-[![Tibet, China](pics/IMG_4668.JPG){fig-align="left" width="350"}](pics/IMG_4668.JPG)
-:::
-
-::: {layout-ncol="2" layout-valign="bottom"}
-[![Tibet, China](pics/IMG_4728.JPG){fig-align="left" width="350"}](pics/IMG_4728.JPG)
-
-[![Lake Nam, China](pics/IMG_4740.JPG){fig-align="left" width="350"}](pics/IMG_4740.JPG)
 :::
 
 \
