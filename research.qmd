@@ -7,7 +7,7 @@ editor: visual
 
 \
 
--   **Laplace Approximation on Irregular Lattices Using Combinatorial Optimization Algorithm** \
+-   **Gaussian Markov Random Fields for Irregularly Sampled Spatial Data with Large Scale Computations** \
     Advisor: Debashis Mondal
 
 -   **Adaptive MOSUM: Inference for Multiscale Change Points in High-Dimensional Time Series** \

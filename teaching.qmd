@@ -11,24 +11,31 @@ editor: visual
 
 \
 
-###### Fall 2023
+###### SDS 2200: Elementary Probability and Statistics
 
--   Math 3200: Elementary to Intermediate Statistics and Data Analysis Fall 2019 - Assistant to Instructor
+-   Assistant to Instructor
+-   Fall 2024, Spring 2025
 
-###### Fall 2019
+###### SDS 3200: Elementary to Intermediate Statistics and Data Analysis
 
--   Calculus II Peer-Led Team Learning Program - Leader
+-   Assistant to Instructor
+-   Fall 2023, Spring 2024
 
-###### Spring 2019
+###### Calculus II Peer-Led Team Learning Program
 
--   Calculus II Peer-Led Team Learning Program - Leader
--   CSE 247: Data Structures and Algorithms - Teaching Assistant
--   Partners in East St. Louis - Language Ambassador
+-   Leader
+-   Fall 2018, Spring 2019, Fall 2019
 
-###### Fall 2018
+###### CSE 247: Data Structures and Algorithms
 
--   Calculus II Peer-Led Team Learning Program - Leader
--   Partners in East St. Louis - Language Ambassador
+-   Teaching Assistant
+-   Spring 2019
+
+###### Partners in East St. Louis
+
+-   Language Ambassador
+-   Fall 2018, Spring 2019
+
 
 \
 
@@ -36,6 +43,7 @@ editor: visual
 
 \
 
-###### Summer 2019
+###### The Mathematics of Money
 
--   The Mathematics of Money - Teaching Assistant
+-   Teaching Assistant
+-   Summer 2019
