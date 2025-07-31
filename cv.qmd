@@ -8,4 +8,4 @@ editor: visual
 
 *last updated: July 2025
 
-[![](cv2025.pdf){width="800" height="930"}](cv2025.pdf)
+[![](cv202507.pdf){width="800" height="930"}](cv2025.pdf)
